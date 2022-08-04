@@ -1,5 +1,5 @@
-var foods = {apples: 23, 
-  grapes: 507, 
+var foods = {apples: 23,
+  grapes: 507,
   eggs: 48}
 
 var person = { height: "6 ft", weight: "160 lbs" }
@@ -20,3 +20,5 @@ var post2 =
       numberLikes: 13,
       comments: []
 }
+console.log(post);
+console.log(post2);
